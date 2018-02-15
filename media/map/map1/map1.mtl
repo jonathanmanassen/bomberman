@@ -1,0 +1,56 @@
+# Blender MTL File: 'None'
+# Material Count: 5
+
+newmtl _chunk_jungle_east_island_e_Alpha_3dcUV_Atlas_color
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.409600 0.409600 0.409600
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd textures/_chunk_jungle_east_island_e_alpha_3dcuv_atlas_color.png
+map_d textures/_chunk_jungle_east_island_e_alpha_3dcuv_atlas_color.png
+
+newmtl _chunk_jungle_north_island_a_Alpha_3dcUV_Atlas_color
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.409600 0.409600 0.409600
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd textures/_chunk_jungle_north_island_a_alpha_3dcuv_atlas_color.png
+map_d textures/_chunk_jungle_north_island_a_alpha_3dcuv_atlas_color.png
+
+newmtl _chunk_jungle_south_island_a_Alpha_3dcUV_Atlas_color
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.409600 0.409600 0.409600
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd textures/_chunk_jungle_south_island_a_alpha_3dcuv_atlas_color.png
+map_d textures/_chunk_jungle_south_island_a_alpha_3dcuv_atlas_color.png
+
+newmtl _chunk_jungle_west_island_e_Alpha_3dcUV_Atlas_color
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.409600 0.409600 0.409600
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd textures/_chunk_jungle_west_island_e_alpha_3dcuv_atlas_color.png
+map_d textures/_chunk_jungle_west_island_e_alpha_3dcuv_atlas_color.png
+
+newmtl hing_temp_lm_Grnd_Terrain_M_Shader1
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.409600 0.409600 0.409600
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd textures/grnd_terrain_m.png
